@@ -14,4 +14,4 @@ Currently improving my programming skills: ReactJS, Java, Python.
 
 <h2>Find me elsewhere</h2>
 
-[I'm an inline-style link](https://www.google.com)
+[<img scr='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fedent%2FSuperTinyIcons&psig=AOvVaw0DLtNXJnm3fTZNxkMuyNl5&ust=1636481125138000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCa6bOtifQCFQAAAAAdAAAAABAD'>](https://www.linkedin.com/in/akshat-sawraj-756a691b6/)
