@@ -5,7 +5,9 @@ If you found value in something I have created, Please feel free to give me a sh
 
 As a software developer, I'm self-motivated, cooperative, and a dedicated team player. 
 I believe in solving a problem by good analysis and creativity to arrive at the best possible solution. I enjoy learning new things without fear or hesitation.
+
 Since starting my diploma in software development from Southern Alberta Institute of Technology in Calgary, I studied hard and achived GPA 3.9
+
 Finally, I'm looking for a job!
 
 <h2>What I'm focusing on</h2>
