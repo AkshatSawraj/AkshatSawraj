@@ -15,4 +15,4 @@ Finally, I'm looking for a job!
 Currently improving my programming skills: ReactJS, Java, Python.
 
 <h2>Find me elsewhere</h2>
-<a href="https://www.linkedin.com/in/akshat-sawraj-756a691b6/"><img src="index.png" height="100px"></a>
+<a href="https://www.linkedin.com/in/akshat-sawraj-756a691b6/"><img src="index.png" height="70px"></a>
